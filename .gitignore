@@ -1,0 +1,7 @@
+# 忽略虚拟环境
+venv/
+__pycache__/
+
+# 忽略原始数据和压缩包
+*.zip
+ml-latest-small/
